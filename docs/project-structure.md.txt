@@ -1,9 +1,18 @@
+<nav>
+  <a href="index.md">Home</a> |
+  <a href="about.md">About</a> |
+  <a href="project-structure.md">Project Structure</a> |
+  <a href="../Responsible-AI-Guidelines.md">AI Guidelines</a>
+</nav>
+
+---
+
 # Project Structure
 
-##  src/
+## src/
 Contains source code files.
 
-##  tests/
+## tests/
 Contains test cases and example scripts.
 
 ##  docs/

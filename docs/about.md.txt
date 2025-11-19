@@ -1,3 +1,12 @@
+<nav>
+  <a href="index.md">Home</a> |
+  <a href="about.md">About</a> |
+  <a href="project-structure.md">Project Structure</a> |
+  <a href="../Responsible-AI-Guidelines.md">AI Guidelines</a>
+</nav>
+
+---
+
 # About This Project
 
 This project demonstrates:

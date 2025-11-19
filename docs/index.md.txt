@@ -1,5 +1,13 @@
-# Welcome to the Unit 4 AI Assignment
+<nav>
+  <a href="index.md">Home</a> |
+  <a href="about.md">About</a> |
+  <a href="project-structure.md">Project Structure</a> |
+  <a href="../Responsible-AI-Guidelines.md">AI Guidelines</a>
+</nav>
 
+---
+
+# Welcome to the Unit 4 AI Assignment
 This website contains documentation, examples, and project files for the AI automation assignment.
 
 ## Sections
