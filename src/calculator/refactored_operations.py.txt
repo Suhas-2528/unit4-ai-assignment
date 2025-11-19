@@ -1,0 +1,9 @@
+from functools import reduce
+from operator import mul
+from typing import Iterable
+
+def sum_values(values: Iterable[float]) -> float:
+    return sum(values)
+
+def product_values(values: Iterable[float]) -> float:
+    return reduce(mul, values, 1)

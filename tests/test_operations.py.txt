@@ -1,0 +1,10 @@
+from src.calculator.refactored_operations import sum_values, product_values
+
+def test_sum_values():
+    assert sum_values([1, 2, 3]) == 6
+
+def test_product_values():
+    assert product_values([2, 3, 4]) == 24
+
+def test_product_empty():
+    assert product_values([]) == 1

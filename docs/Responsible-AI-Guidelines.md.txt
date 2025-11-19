@@ -1,0 +1,2 @@
+# Responsible AI Guidelines
+This document explains ethical AI usage in this project.

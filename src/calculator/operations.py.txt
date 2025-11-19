@@ -1,0 +1,12 @@
+def calculate(values, op):
+    if op == 'sum':
+        total = 0
+        for v in values:
+            total += v
+        return total
+    if op == 'product':
+        result = 1
+        for v in values:
+            result *= v
+        return result
+    raise ValueError('unsupported op')
