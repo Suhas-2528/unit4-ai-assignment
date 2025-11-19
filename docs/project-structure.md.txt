@@ -1,0 +1,19 @@
+# Project Structure
+
+##  src/
+Contains source code files.
+
+##  tests/
+Contains test cases and example scripts.
+
+##  docs/
+Contains documentation pages for GitHub Pages.
+
+##  examples/
+Contains demonstration files for the project.
+
+##  README.md
+Overview of the project.
+
+##  Responsible-AI-Guidelines.md
+Checklist and guidelines for responsible usage of AI.

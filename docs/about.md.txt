@@ -1,0 +1,7 @@
+# About This Project
+
+This project demonstrates:
+- Basic repository setup
+- Documentation structure
+- GitHub Pages deployment
+- Responsible AI development principles

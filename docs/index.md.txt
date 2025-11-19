@@ -1,0 +1,8 @@
+# Welcome to the Unit 4 AI Assignment
+
+This website contains documentation, examples, and project files for the AI automation assignment.
+
+## Sections
+- [About](about.md)
+- [Project Structure](project-structure.md)
+- [Responsible AI Guidelines](../Responsible-AI-Guidelines.md)
